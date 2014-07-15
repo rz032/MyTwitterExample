@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.rz0.mytwitter.MessagesActivity" >
+
+    <item android:id="@+id/action_back"
+        android:title="Отменить"
+        android:orderInCategory="100"
+        />
+    <item android:id="@+id/action_delete"
+        android:title="Удалить"
+        android:orderInCategory="100"
+         />
+</menu>
