@@ -9,7 +9,7 @@
         android:layout_height="100dip"
         android:inputType="textMultiLine"
         android:ems="10"
-        android:maxLength="140"
+        android:maxLength="130"
         android:id="@+id/messageText"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
@@ -28,7 +28,7 @@
         android:layout_width="300dip"
         android:layout_height="100dip"
         android:id="@+id/signatureText"
-        android:maxLength="140"
+        android:maxLength="10"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>
